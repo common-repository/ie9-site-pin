@@ -1,0 +1,27 @@
+#uberbar  { 
+			  border-bottom:1px solid #cccccc; 
+			  background:#cccccc; 
+			  padding:10px 20px; 
+			  position:fixed; 
+			  top:0; 
+			  left:0; 
+			  z-index:2000; 
+			  width:100%;
+			  text-align:center;
+			  font-family: verdana;
+			  color: #3B5998;
+			}
+			.close-notify
+			{
+				white-space: nowrap;
+				float: right;
+				margin-right: 30px;
+				color: #fff;
+				text-decoration: none;				
+				padding-left: 3px;
+				padding-right: 3px;
+			}
+			.close-notify a
+			{
+				color: #fff;
+			}
